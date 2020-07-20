@@ -1,0 +1,19 @@
+name: apsegat
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - cudatoolkit=10.1
+  - pytorch
+  - torchvision
+  - opencv
+  - tqdm
+  - matplotlib
+  - tensorboard
+  - pyclipper
+  - scikit-image
+  - colorlog
+prefix: /home/pinaki/miniconda3/envs/apsegat
+
