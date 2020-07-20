@@ -9,8 +9,8 @@ Detecting license plate numbersin crowded street scenes is challenging and requi
 ### Network Architecture
 ![Network Architecture](images/network.jpg)
 
-### Sample Results
-![Sample Results](images/results.jpg)
+### Sample Result
+![Sample Results](images/result.jpg)
 
 ### Installation Instructions
 Please use miniconda / Anaconda for ease of installation
