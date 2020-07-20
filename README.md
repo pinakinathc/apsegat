@@ -15,7 +15,7 @@ Detecting license plate numbersin crowded street scenes is challenging and requi
 ### Installation Instructions
 Please use miniconda / Anaconda for ease of installation
 
-- ```git clone```
+- ```git clone https://github.com/pinakinathc/apsegat.git```
 
 - ```conda env create -f environment.yml```
 
